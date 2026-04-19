@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Mie Ayam Jamur",
+        "description": "Mie kuah gurih dengan topping ayam jamur manis savory.",
+        "price": 18000,
+        "imgUrl": "https://images.pexels.com/photos/13597809/pexels-photo-13597809.jpeg?cs=srgb&dl=pexels-aysin-13597809.jpg&fm=jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Jawa",
+        "description": "Olahan mie goreng tradisional dengan kecap dan suwiran ayam.",
+        "price": 19000,
+        "imgUrl": "https://images.pexels.com/photos/3727198/pexels-photo-3727198.jpeg?cs=srgb&dl=pexels-horizon-content-2100060-3727198.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Bakmi Kuah Spesial",
+        "description": "Bakmi kuah hangat dengan sawi, ayam cincang, dan pangsit.",
+        "price": 20000,
+        "imgUrl": "https://images.pexels.com/photos/16594957/pexels-photo-16594957.jpeg?cs=srgb&dl=pexels-nadin-sh-78971847-16594957.jpg&fm=jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Seafood",
+        "description": "Mie goreng dengan udang, cumi, dan sayuran segar.",
+        "price": 24000,
+        "imgUrl": "https://images.pexels.com/photos/3727197/pexels-photo-3727197.jpeg?cs=srgb&dl=pexels-horizon-content-2100060-3727197.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Kuah Kari",
+        "description": "Olahan mie berkuah kari kental dengan aroma rempah hangat.",
+        "price": 22000,
+        "imgUrl": "https://images.pexels.com/photos/33143858/pexels-photo-33143858.jpeg?cs=srgb&dl=pexels-miff-ibra-387362143-33143858.jpg&fm=jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Pedas Level 1",
+        "description": "Mie goreng pedas ringan dengan topping telur dan ayam suwir.",
+        "price": 17000,
+        "imgUrl": "https://images.pexels.com/photos/19264274/pexels-photo-19264274.jpeg?cs=srgb&dl=pexels-kawerodriguess-19264274.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Kuah Tomyam",
+        "description": "Mie kuah asam pedas ala tomyam dengan seafood dan jamur.",
+        "price": 25000,
+        "imgUrl": "https://images.pexels.com/photos/6718706/pexels-photo-6718706.jpeg?cs=srgb&dl=pexels-son-tung-tran-2131116-6718706.jpg&fm=jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Sambal Matah",
+        "description": "Mie goreng dengan topping sambal matah segar dan ayam grill.",
+        "price": 23000,
+        "imgUrl": "https://images.pexels.com/photos/15298793/pexels-photo-15298793.jpeg?cs=srgb&dl=pexels-kawerodriguess-15298793.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Kuah Bakso",
+        "description": "Mie kuah kaldu sapi dengan bakso, sawi, dan bawang goreng.",
+        "price": 21000,
+        "imgUrl": "https://images.pexels.com/photos/12210730/pexels-photo-12210730.jpeg?cs=srgb&dl=pexels-markuswinkler-12210730.jpg&fm=jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Aceh",
+        "description": "Olahan mie goreng berbumbu aceh yang kaya rempah dan pedas.",
+        "price": 26000,
+        "imgUrl": "https://images.pexels.com/photos/15298786/pexels-photo-15298786.jpeg?cs=srgb&dl=pexels-kawerodriguess-15298786.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Kuah Soto",
+        "description": "Mie kuah dengan cita rasa soto ayam dan taburan seledri.",
+        "price": 19000,
+        "imgUrl": "https://images.pexels.com/photos/12984986/pexels-photo-12984986.jpeg?cs=srgb&dl=pexels-viridiana-rivera-1658618-12984986.jpg&fm=jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Pedas Level 2",
+        "description": "Mie goreng pedas sedang dengan topping ayam crispy.",
+        "price": 18000,
+        "imgUrl": "https://images.pexels.com/photos/19264274/pexels-photo-19264274.jpeg?cs=srgb&dl=pexels-kawerodriguess-19264274.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Kuah Iga",
+        "description": "Mie kuah bening dengan iga sapi empuk dan kaldu pekat.",
+        "price": 29000,
+        "imgUrl": "https://images.pexels.com/photos/12210730/pexels-photo-12210730.jpeg?cs=srgb&dl=pexels-markuswinkler-12210730.jpg&fm=jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Wagyu",
+        "description": "Mie goreng premium dengan irisan wagyu dan saus gurih.",
+        "price": 38000,
+        "imgUrl": "https://images.pexels.com/photos/3727198/pexels-photo-3727198.jpeg?cs=srgb&dl=pexels-horizon-content-2100060-3727198.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Kuah Cakalang",
+        "description": "Mie kuah khas timur dengan suwiran ikan cakalang pedas.",
+        "price": 24000,
+        "imgUrl": "https://images.pexels.com/photos/31842953/pexels-photo-31842953.jpeg?cs=srgb&dl=pexels-gu-ko-2150570603-31842953.jpg&fm=jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Carbonara",
+        "description": "Fusion olahan mie goreng creamy dengan saus carbonara.",
+        "price": 27000,
+        "imgUrl": "https://images.pexels.com/photos/26390885/pexels-photo-26390885.jpeg?cs=srgb&dl=pexels-nadin-sh-78971847-26390885.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Kuah Rica",
+        "description": "Mie kuah pedas gurih dengan bumbu rica dan ayam suwir.",
+        "price": 23000,
+        "imgUrl": "https://images.pexels.com/photos/8883368/pexels-photo-8883368.jpeg?cs=srgb&dl=pexels-makafood-82669418-8883368.jpg&fm=jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Pedas Level 3",
+        "description": "Mie goreng super pedas untuk pecinta cabai sejati.",
+        "price": 19000,
+        "imgUrl": "https://images.pexels.com/photos/19264274/pexels-photo-19264274.jpeg?cs=srgb&dl=pexels-kawerodriguess-19264274.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Kuah Udang",
+        "description": "Mie kuah ringan dengan udang, pakcoy, dan bawang putih.",
+        "price": 25000,
+        "imgUrl": "https://images.pexels.com/photos/6718706/pexels-photo-6718706.jpeg?cs=srgb&dl=pexels-son-tung-tran-2131116-6718706.jpg&fm=jpg",
+        "CategoryId": 2,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Mozzarella",
+        "description": "Olahan mie goreng kekinian dengan lelehan mozzarella.",
+        "price": 28000,
+        "imgUrl": "https://images.pexels.com/photos/15298793/pexels-photo-15298793.jpeg?cs=srgb&dl=pexels-kawerodriguess-15298793.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Goreng Signature Admin",
+        "description": "Menu spesial racikan chef dengan topping komplet.",
+        "price": 50000,
+        "imgUrl": "https://images.pexels.com/photos/3727198/pexels-photo-3727198.jpeg?cs=srgb&dl=pexels-horizon-content-2100060-3727198.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 1
+    },
+    {
+        "name": "Mie Kuah Signature Owner",
+        "description": "Menu spesial berkuah kaya topping milik staff owner.",
+        "price": 45000,
+        "imgUrl": "https://images.pexels.com/photos/13597809/pexels-photo-13597809.jpeg?cs=srgb&dl=pexels-aysin-13597809.jpg&fm=jpg",
+        "CategoryId": 1,
+        "AuthorId": 2
+    }
+]
