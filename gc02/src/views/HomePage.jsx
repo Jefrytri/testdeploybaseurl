@@ -14,11 +14,13 @@ export default function HomePage() {
   const [totalPage, setTotalPage] = useState(1)
   const [loading, setLoading] = useState(false)
 
+  console.log({baseUrl})
+
   useEffect(() => {
     async function fetchCuisines() {
       try {
         setLoading(true)
-        const { data } = await axios.get(`${baseUrl}/pub/cuisines`, {
+        const { data } = await axios.get(`http://gacoin.databarang.my.id/pub/cuisines`, {
           params: { search, sort, page, limit: 8 },
         })
         setCuisines(data.data)
